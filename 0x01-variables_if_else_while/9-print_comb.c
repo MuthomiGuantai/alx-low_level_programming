@@ -6,10 +6,10 @@
 #define SEP '0'
 
 /**
- * main - print all possible combinations 
- * of single-digit numbers.
- * Return: return 0 if successful
- */
+* main - print all possible combinations 
+* of single-digit numbers.
+* Return: return 0 if successful
+*/
 
 int main(void)
 {
