@@ -17,7 +17,7 @@ for (alphabet = END; alphabet >= START; alphabet--)
 {
 putchar(alphabet);
 }
-putchar('\n');
+putchar(s);
 
 return (0);
 }
