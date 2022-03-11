@@ -20,7 +20,7 @@ int main(void)
     {
         printf("and is 0\n");
     }
-    else if (last_number < 6 && last_number !=0);
+    else if (last_number < 6 && last_number !=0)
     {
         printf("and is less than 6 and not 0\n");
     }
