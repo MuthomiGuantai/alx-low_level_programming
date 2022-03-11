@@ -5,7 +5,7 @@
 #define LIMIT 10
 
 /**
- * main - entry point
+ * main - single digits to base 10
  *
  * Return: return 0 if successful
  */
@@ -13,7 +13,7 @@
 int main(void)
 {
 int numbers;
-for(numbers = NUMBER; numbers < LIMIT; numbers++)
+for (numbers = NUMBER; numbers < LIMIT; numbers++)
 {
 printf("%d", numbers);
 }
