@@ -1,15 +1,17 @@
-#include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
 
 #define MAX 10
 #define MIN 0
 #define SEP '0'
 
 /**
-* main - print all possible combinations 
-* of single-digit numbers.
-* Return: return 0 if successful
-*/
+ * main - all possible combinations for single digit numbers
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
 {
 int digit;
