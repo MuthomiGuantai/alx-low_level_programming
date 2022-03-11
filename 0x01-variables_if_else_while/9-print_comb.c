@@ -14,11 +14,12 @@
 
 int main(void)
 {
-int number;
-for (number = MIN; number < MAX; number++)
+int digit;
+
+for (digit = MIN ; digit < MAX ; digit++)
 {
-putchar(number + SEP);
-if (number != (MAX - 1))
+putchar(digit + SEP);
+if (digit != (MAX - 1))
 {
 putchar(',');
 putchar(' ');
