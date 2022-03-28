@@ -30,8 +30,8 @@ A function that reverses a string.
 
 ## 6-puts2.c
 
-A function that prints every other character of a string, starting with the
-first character, followed by a new line.
+**A function that prints every other character of a string, starting with the
+first character, followed by a new line.**
 
 ## 7-puts_half.c
 
@@ -41,9 +41,9 @@ characters of the string where n = (length of string - 1) / 2.
 
 ## 8-print_array.c
 
-A function that prints n elements of an array of integers, followed by a new
+**A function that prints n elements of an array of integers, followed by a new
 line. The nunmbers must be separated by a comma, followed by a space and should
-be displayed in the same order as they are stored in the array.
+be displayed in the same order as they are stored in the array.**
 
 ## 9-strcpy.c
 
