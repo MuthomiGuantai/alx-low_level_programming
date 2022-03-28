@@ -58,4 +58,5 @@ else it returns the converted integer.
 
 ## 101-keygen.c
 
-A function that generates random valid passwords for the program 101-crackme
+**A function that generates random valid passwords for the program 101-crackme
+**
