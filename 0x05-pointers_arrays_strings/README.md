@@ -51,10 +51,10 @@ A function that copies a string, including the terminating null byte '\0'.
 
 ## 100-atoi.c
 
-A function that converts the first set of digits in a string to an integer.
+**A function that converts the first set of digits in a string to an integer.
 The function takes into account all the '-' and '+' that occur before the first
 set of integers. if there are no numbers in the string the function returns a 0,
-else it returns the converted integer.
+else it returns the converted integer.**
 
 ## 101-keygen.c
 
